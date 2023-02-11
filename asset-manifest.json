@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/synthesize_webview/static/css/main.ccfa34f1.css",
+    "main.js": "/synthesize_webview/static/js/main.9c5f11a3.js",
+    "static/media/GenYoMinTW_Heavy.ttf": "/synthesize_webview/static/media/GenYoMinTW_Heavy.600792fd47fb595fe76d.ttf",
+    "static/media/GenYoMinTW.ttf": "/synthesize_webview/static/media/GenYoMinTW.10c136455fd655b4eb41.ttf",
+    "static/media/GenYoMinTW_Heavy.woff": "/synthesize_webview/static/media/GenYoMinTW_Heavy.8850e967b1aed50156a8.woff",
+    "static/media/GenYoMinTW.woff": "/synthesize_webview/static/media/GenYoMinTW.d43aaa0a29425ece3d18.woff",
+    "static/media/HomeSemiBackground.png": "/synthesize_webview/static/media/HomeSemiBackground.3d46aa3b7a782040e7e8.png",
+    "static/media/HomeBackground.png": "/synthesize_webview/static/media/HomeBackground.47c03a089c68cbe5daee.png",
+    "static/media/icon_sajasohag.jpg": "/synthesize_webview/static/media/icon_sajasohag.38b4a954a1ecc52ab6ac.jpg",
+    "static/media/icon_gyemong.jpg": "/synthesize_webview/static/media/icon_gyemong.78b6b71c3a469ca232b0.jpg",
+    "static/media/icon_samjagyeong.jpg": "/synthesize_webview/static/media/icon_samjagyeong.82661ea742268ecb64df.jpg",
+    "static/media/icon_cheonjamun.jpg": "/synthesize_webview/static/media/icon_cheonjamun.711ff57bb1e9c534b851.jpg",
+    "static/media/icon_jeokcheonsu.jpg": "/synthesize_webview/static/media/icon_jeokcheonsu.0ac382b5ba0dd7d30700.jpg",
+    "static/media/icon_hageojib.jpg": "/synthesize_webview/static/media/icon_hageojib.3dd5d80ed56334e4ca54.jpg",
+    "static/media/icon_chugujib.jpg": "/synthesize_webview/static/media/icon_chugujib.d829b7887f635da27223.jpg",
+    "static/media/_q.png": "/synthesize_webview/static/media/_q.9904386a85f3cd377257.png",
+    "static/media/Screen2.png": "/synthesize_webview/static/media/Screen2.83c17c2b520850c85350.png",
+    "static/media/_a.png": "/synthesize_webview/static/media/_a.d684cf45c22b60c9885d.png",
+    "static/media/q.png": "/synthesize_webview/static/media/q.98609dbea4e90b1e440b.png",
+    "static/media/Screen7.png": "/synthesize_webview/static/media/Screen7.30b182e43e3958c918d6.png",
+    "static/media/Screen3.png": "/synthesize_webview/static/media/Screen3.3400e8f08cbdb3cf2dc2.png",
+    "static/media/Screen1.png": "/synthesize_webview/static/media/Screen1.44c49c90f38476b6527d.png",
+    "static/media/Screen4.png": "/synthesize_webview/static/media/Screen4.f4b75bc0d5972c12e95a.png",
+    "static/media/Screen5.png": "/synthesize_webview/static/media/Screen5.ccf69924b7f9628c5053.png",
+    "static/media/a.png": "/synthesize_webview/static/media/a.5c9eedc07828a26c4694.png",
+    "index.html": "/synthesize_webview/index.html",
+    "main.ccfa34f1.css.map": "/synthesize_webview/static/css/main.ccfa34f1.css.map",
+    "main.9c5f11a3.js.map": "/synthesize_webview/static/js/main.9c5f11a3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccfa34f1.css",
+    "static/js/main.9c5f11a3.js"
+  ]
+}
